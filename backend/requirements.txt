@@ -1,0 +1,11 @@
+torchscale
+pinecone
+python-dotenv
+flask
+flask_cors
+pyvi
+transformers
+sentence-transformers
+pandas
+huggingface_hub
+gunicorn
